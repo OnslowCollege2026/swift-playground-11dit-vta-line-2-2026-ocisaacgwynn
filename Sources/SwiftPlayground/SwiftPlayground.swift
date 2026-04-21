@@ -6,5 +6,5 @@ struct SwiftPlayground {
     static func main() {
         print("Hello, world!")
     }
-}
-print("I A G")/**/
+}/**/
+print("I A G")
