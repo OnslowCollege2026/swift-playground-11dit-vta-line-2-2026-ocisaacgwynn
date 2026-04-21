@@ -3,7 +3,7 @@
 
 @main
 struct SwiftPlayground {
-    static func main() {
+    static func main(print(" III  GGG")) {
         print("Hello, world!")
     }
 }/**/
