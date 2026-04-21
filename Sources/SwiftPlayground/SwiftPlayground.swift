@@ -7,4 +7,4 @@ struct SwiftPlayground {
         print("Hello, world!")
     }
 }/**/
-print(" III  A   GG")
+print(" III  GG")
